@@ -1,5 +1,6 @@
 # Simularile-PoC
 Simularile mele PoC rezultate din setul de date primit de la provocarea 3
+
 Voi explica pe etape pasii urmati in realizarea simularilor PoC. 
 Pentru inceput am aranjat setul de date primit in functie de input_main_key, in ordine crescatoare, cu scopul de-a avea ordine in setul de date pentru a indentifica posibilele duplicate.
 Dupa curatarea setului de date, am analizat datele primite si am selectat datele necesare pentru simularile PoC.
