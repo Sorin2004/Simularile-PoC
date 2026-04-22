@@ -18,5 +18,5 @@ Scopul formarii celor 4 simulari PoC este de-a forma un set de date detaliat si 
 Informatii suplimentare
 -Am folosit ca indentificator valorile din coloana C deoarece mi-a fost usor sa selectez datele in de care aveam nevoie pentru simularile PoC.
 -Datele din Date_Tabel_Danemarca, Date_Tabel_Norvegia,Date_Tabel_sub_300_Companii si Date_Tabel_sub_100_Companii nu sunt ordonate si sunt folosite pentru formarea tabelei principale.
--Am format mica analiza doar pentru companiile din Danemarca si Norvegia, deoarece aveau doar o valoare principala, in comparatie cu celelalte 2 tabele din simularile PoC, unde tara de origine a companiei principale este diferita.
+-Am format mica analiza doar pentru companiile din Danemarca si Norvegia, deoarece companiile aveau aceeasi tara de origine, in comparatie cu celelalte 2 tabele din simularile PoC, unde tara de origine a companiilor este diferita.
 Acestea sunt etapele explicate in detaliu care au stat la baza realizarii proiectului meu.
