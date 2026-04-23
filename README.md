@@ -4,7 +4,7 @@ Simularile mele PoC rezultate din setul de date primit de la provocarea 3
 Voi explica pe etape pasii urmati in realizarea simularilor PoC. 
 Pentru inceput am aranjat setul de date primit in functie de input_main_key, in ordine crescatoare, cu scopul de-a avea ordine in setul de date pentru a indentifica posibilele duplicate.
 Dupa curatarea setului de date, am analizat datele primite si am selectat datele necesare pentru simularile PoC.
-Pentru selectie, am numarat intr-o alta fereastra toate input_main_country_code, pentru a oferi o imagine de asamblu a locatiilor iniale a companiilor, pentru a vedea cate companii are fiecare tara.
+Pentru selectie, am numarat intr-o alta fereastra toate input_main_country_code, pentru a oferi o imagine de asamblu a locatiilor iniale a companiilor, pentru a vedea cate companii sunt in fiecare tara in funtie de tara de origine.
 <img width="1813" height="714" alt="image" src="https://github.com/user-attachments/assets/b21ee3b5-b5c6-4bc8-a60a-12e0887cbff4" />
 
 Dupa acest detaliu, am inceput selectia datelor principale pentru fiecare interval, am selectat ca simulari PoC: companiile din Danemarca, deoarece sunt cele mai numeroase, respectiv 797 de companii; apoi am selectat companiile din Norvegia, in total 455 de companii, apoi am creat un PoC pentru tarile care au intre 300-100 companii, fiind preluate la comun, in total 7 tari, si in final am creat un PoC pentru tarile care au sub 100 de companii, fiind intervalul cu cele mai multe tari, respectiv 25 de tari.
